@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 There once was a girl named Grace. She lived in New York City. One day she decided to take a trip to Madison, Wisconsin.
+=======
+There once was a girl named Grace.
+>>>>>>> 17e271e14aead692e92f55d483abcf6ab7f52954
